@@ -34,4 +34,4 @@ SetElementDetails('sitereptile', 'website', 'searchtext', PAGE.appGroups);
 Make sure to replace the URL in the first line with your own.
 
 ### Can I use mofh-javascript and Wybe Network's VistaPanel Customizations at the same time?
-Yes, you can! Some conflicts can occur when covering the same functionality (for example, Wybe's Element Changer with vistascripts.js' element changing), in which case you're free to decide which script to utilize.
+Yes, you can! Some conflicts can occur when covering the same functionality (for example, Wybe's Element Changer with mofh-javascript' element changing), in which case you're free to decide which script to utilize.
