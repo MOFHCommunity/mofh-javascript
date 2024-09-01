@@ -9,7 +9,7 @@ Login to your MyOwnFreeHost account & click "Your Adverts", and then "Control Pa
 ## Usage
 ### Load the initial code
 ```js
-<script src="https://cdn.jsdelivr.net/gh/GenApplications/vistascripts.js/vistascripts.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MOFHCommunity/mofh-javascript.js/mofh-javascript.js"></script>
 ```
 
 ### Getting Page Information
