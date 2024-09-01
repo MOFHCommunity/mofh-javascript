@@ -9,6 +9,18 @@ function get_page_info() {
     return url_params_vpscriptsjs.get('option');
 }
 
+function set_custom_favicon(favicon_url) {
+    const link = document.createElement('link');
+    link.rel = 'icon';
+    link.href = favicon_url;
+    document.head.appendChild(link);
+}
+
+function set_page_title(title) {
+    document.title = title;
+}
+
+
 function set_php_version(version) {
     /* 
     * This code was written by SpookyKipper (https://github.com/SpookyKipper/) and Deveroonie (https://github.com/Deveroonie/)
