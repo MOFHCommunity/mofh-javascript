@@ -1,10 +1,10 @@
+
 # mofh-javascript: Customize VistaPanel with JavaScript
 
 mofh-javascript empowers you to transform your VistaPanel experience with customizable scripts. 
 
 ## How to install
 Login to your MyOwnFreeHost account & click "Your Adverts", and then "Control Panel Advert Control", select your domain and copy & paste the code below: 
-
 
 ## Usage
 ### Load the initial code
@@ -118,9 +118,23 @@ Dynamically load an external stylesheet into the VistaPanel.
 load_stylesheet('https://example.com/styles.css');
 ```
 
+## Frequently Asked Questions (FAQ)
+
+### 1. **Can I use mofh-javascript and Wybe Network's VistaPanel Customizations at the same time?**
+   **Yes, you can!** Some conflicts can occur when covering the same functionality (for example, Wybe's Element Changer with mofh-javascript's element changing), in which case you're free to decide which script to utilize.
+
+### 2. **Is mofh-javascript a library?**
+   mofh-javascript allows you to customize VistaPanel with code easily and impress your clients!
+
+### 3. **How can I report bugs or request features?**
+   You can report bugs or request features by opening an issue on the project's GitHub repository. Contributions are welcome!
+
+### 4. **Can I contribute to mofh-javascript?**
+   Yes, contributions are encouraged! You can contribute by forking the repository, making your changes, and submitting a pull request. Please review the contribution guidelines before submitting.
+
+### 5. **Is mofh-javascript secure to use?**
+   mofh-javascript is developed with security in mind. However, as with any third-party script, it's important to review the code and ensure it meets your security standards before deploying it on a live site.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-### Can I use mofh-javascript and Wybe Network's VistaPanel Customizations at the same time?
-Yes, you can! Some conflicts can occur when covering the same functionality (for example, Wybe's Element Changer with mofh-javascript' element changing), in which case you're free to decide which script to utilize.
