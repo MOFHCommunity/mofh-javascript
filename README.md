@@ -1,13 +1,13 @@
 
-# mofh-javascript: Customize VistaPanel with JavaScript
+# mofh-javascript
 
-mofh-javascript empowers you to transform your VistaPanel experience with customizable scripts. 
+mofh-javascript is a JavaScript library for VistaPanel that can customize your clients experience.
 
-## How to install
-Login to your MyOwnFreeHost account & click "Your Adverts", and then "Control Panel Advert Control", select your domain and copy & paste the code below: 
+## How to insert the script
+Sign in to your MyOwnFreeHost reseller account and then click "Your Adverts", and then "Control Panel Advert Control", select your domain and copy and paste the code found in the "Usage" section.
 
 ## Usage
-### Load the initial code
+### Load the required initial code
 ```js
 <script src="https://cdn.jsdelivr.net/gh/MOFHCommunity/mofh-javascript/mofh-javascript.js"></script>
 ```
